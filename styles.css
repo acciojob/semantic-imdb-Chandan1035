@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+  header {
+    background-color: lightblue;
+  }
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+  nav a:hover {
+    color: red;
+  }
+  section {
+    margin: 20px;
+  }
+  aside {
+    background-color: lightgrey;
+    padding: 10px;
+  }
+  footer {
+    font-style: italic;
+  }
+
